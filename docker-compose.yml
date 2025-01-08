@@ -7,9 +7,8 @@ services:
       args:
         NEXT_PUBLIC_DEFAULT_LANGUAGE:
 
-        NEXT_PUBLIC_SITE_URL: https://user.ppanel.dev
-        NEXT_PUBLIC_API_URL: https://api.ppanel.dev
-
+        NEXT_PUBLIC_SITE_URL: https://user.v2raynode.com
+        NEXT_PUBLIC_API_URL: https://api.v2raynode.com
         NEXT_PUBLIC_EMAIL: support@ppanel.dev
         NEXT_PUBLIC_TELEGRAM_LINK: https://t.me/VPNboardChat
 
